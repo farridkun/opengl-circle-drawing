@@ -1,0 +1,3 @@
+﻿  Source12.cpp
+C:\Users\FARRID-HOME\source\repos\OpenGL\OpenGL\Source12.cpp(6,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+  OpenGL.vcxproj -> C:\Users\FARRID-HOME\source\repos\OpenGL\x64\Debug\OpenGL.exe
